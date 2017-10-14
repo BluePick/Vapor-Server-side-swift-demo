@@ -1,0 +1,4 @@
+module CHTTP {
+    umbrella "/Volumes/DATA/Darshit/Vapor/VideoApp/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include"
+    export *
+}
